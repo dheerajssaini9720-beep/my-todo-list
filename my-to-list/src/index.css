@@ -277,8 +277,9 @@
 }
 
 .total-task {
+
+      display: block;
   width: 100%;
-    flex-wrap: wrap;
 }
 
 .task-item {

@@ -279,9 +279,10 @@
 .total-task {
   display: block;
   width: 100%;
-  background: red;
-  color: white;
-  margin-left: 0;
+  margin-left: 0 !important;
+   margin-top: 8px;
+  text-align: center;
+  font-size: 15px;
    
 }
 
